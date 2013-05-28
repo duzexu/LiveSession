@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "LiveSessions": {
+            "applicationId": "gr3VyMZctFQdgOVtNCH0qjEmF1xq4d737tvq156W", 
+            "masterKey": "M40dgjUpYM1rwzycVa0AwEgcMsjMBGDVKhhUIXPm"
+        }, 
+        "_default": {
+            "link": "LiveSessions"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.7"
+    }
+}
